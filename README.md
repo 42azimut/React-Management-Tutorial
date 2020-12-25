@@ -1,3 +1,6 @@
+## Management System (Customer Service by DongBinNA)
+유튜브 동빈나 리액트, 노드js강의를 따라 개발된 코드 입니다.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
